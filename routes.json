@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/",
+    "file": "index.html",
+    "name": "首页"
+  },
+  {
+    "path": "/shelf",
+    "file": "index.html",
+    "name": "书架"
+  },
+  {
+    "path": "/book/:id",
+    "file": "index.html",
+    "name": "作品详情"
+  },
+  {
+    "path": "/read/:id/:chapterId",
+    "file": "index.html",
+    "name": "阅读器"
+  }
+]
